@@ -1,0 +1,9 @@
+abr. 29, 2023 11:54:24 PM Principal main
+INFORMAÇÕES: Log de informação
+abr. 29, 2023 11:54:24 PM Principal main
+ADVERTÊNCIA: Log de Aviso
+abr. 29, 2023 11:54:24 PM Principal main
+GRAVE: Log Severo
+abr. 29, 2023 11:54:24 PM Principal main
+INFORMAÇÕES: 
+ O programa iniciou a chamada da Calculadora!!
