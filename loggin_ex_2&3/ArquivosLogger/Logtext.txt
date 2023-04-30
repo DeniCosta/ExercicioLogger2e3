@@ -9,3 +9,26 @@ INFORMAÇÕES:
  O programa iniciou a chamada da Calculadora!!
 abr. 30, 2023 12:16:29 AM Principal main
 ADVERTÊNCIA: Tentativa de divisão utilizando o número 0!
+abr. 30, 2023 11:43:15 AM Principal main
+INFORMAÇÕES: Log de informação
+abr. 30, 2023 11:43:15 AM Principal main
+ADVERTÊNCIA: Log de Aviso
+abr. 30, 2023 11:43:15 AM Principal main
+GRAVE: Log Severo
+abr. 30, 2023 11:43:15 AM Principal main
+INFORMAÇÕES: 
+ O programa iniciou a chamada da Calculadora!!
+abr. 30, 2023 11:43:24 AM Principal main
+INFORMAÇÕES: 
+ O cálculo foi realizado.
+abr. 30, 2023 11:43:24 AM Principal main
+ADVERTÊNCIA: Tentativa de divisão utilizando o número 0!
+abr. 30, 2023 11:43:48 AM Principal main
+INFORMAÇÕES: Log de informação
+abr. 30, 2023 11:43:48 AM Principal main
+ADVERTÊNCIA: Log de Aviso
+abr. 30, 2023 11:43:48 AM Principal main
+GRAVE: Log Severo
+abr. 30, 2023 11:43:48 AM Principal main
+INFORMAÇÕES: 
+ O programa iniciou a chamada da Calculadora!!

@@ -15,17 +15,15 @@ public class Principal {
         meuLogger.setLevel(Level.ALL);
 
         try {
-            meuLogger.info("Log de informação");
-            meuLogger.warning("Log de Aviso");
-            meuLogger.severe("Log Severo");
+        	meuLogger.log(Level.INFO, "\n O programa iniciou a chamada da Calculadora!!");
 
         } catch (Exception e) {
-            meuLogger.log(Level.SEVERE, "Exception:", e);
+            meuLogger.log(Level.SEVERE, "Erro ao iniciar a calculadora!:", e);
             e.printStackTrace();
 
         }
 
-        meuLogger.log(Level.INFO, "\n O programa iniciou a chamada da Calculadora!!");
+        
 
         try (Scanner leitura = new Scanner(System.in)) {
             Calculadora c = new Calculadora();
@@ -85,7 +83,7 @@ public class Principal {
 			}
 
 		}
-
+        meuLogger.log(Level.INFO, "\n O cálculo foi realizado com sucesso!.");
 	}
 
 }

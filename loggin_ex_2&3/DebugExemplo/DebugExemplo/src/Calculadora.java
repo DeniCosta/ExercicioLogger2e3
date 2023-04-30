@@ -1,4 +1,6 @@
 
+
+
 public class Calculadora {
 	public float calcular(float a, float b, char operacao) {
 		float resultado = 0;
